@@ -1,0 +1,129 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 (BigData - sites)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Projects\BigData - sites\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Projects/BigData - sites/venv/Lib" type="simple" />
+            <root url="file://C:/Projects/BigData - sites/venv/Scripts" type="simple" />
+            <root url="file://C:/Program Files/Python27/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python27/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Projects/BigData - sites/venv" type="simple" />
+            <root url="file://C:/Projects/BigData - sites/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-77282058" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projects/BigData - sites" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="C:\ProgramData\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/ProgramData/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-313451744" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (CRM)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Projects\CRM\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Projects/CRM/venv/Lib" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/Scripts" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Projects/CRM/venv" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/crm" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/dbase" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/luigi-helpers" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/tracking-messages" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/mrjob" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/flatdata" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/bigdata-python" type="simple" />
+            <root url="file://C:/Projects/CRM/venv/src/sideloaded-content" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-346954927" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projects/CRM" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (HackerRank-Python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Projects\HackerRank-Python2.7\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Projects/HackerRank-Python2.7/venv/Lib" type="simple" />
+            <root url="file://C:/Projects/HackerRank-Python2.7/venv/Scripts" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Projects/HackerRank-Python2.7/venv" type="simple" />
+            <root url="file://C:/Projects/HackerRank-Python2.7/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1791254105" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Projects/HackerRank-Python2.7" />
+    </jdk>
+  </component>
+</application>
